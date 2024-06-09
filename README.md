@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Mir Nayeem Hasan
 #### I am a passionate Junior Full-Stack Webdeveloper
-![I am a passionate Junior Full-Stack Webdeveloper](https://www.linkedin.com/in/mir-nayeem-hasan-464752226/overlay/background-image/)
+![I am a passionate Junior Full-Stack Webdeveloper](https://i.ibb.co/1Rhgc69/Web-Developer-2.png)
 
 Passionate and detail-oriented junior web developer with expertise in building engaging and user-friendly web applications. Proficient in HTML, HTML5, CSS, Bootstrap, Tailwind CSS, and Daisy UI, I specialize in creating visually appealing and responsive interfaces.
 
