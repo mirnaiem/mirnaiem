@@ -1,19 +1,29 @@
-<h1 align="center">Hi 👋, I'm Mir Nayeem Hasan</h1>
-<h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
+### Hi there 👋, My name is Mir Nayeem Hasan
+#### I am a passionate Junior Full-Stack Webdeveloper
+![I am a passionate Junior Full-Stack Webdeveloper](https://www.linkedin.com/in/mir-nayeem-hasan-464752226/overlay/background-image/)
 
-- 🔭 I’m currently working on [Easy-Education](https://easy-education-delta.vercel.app/)
+Passionate and detail-oriented junior web developer with expertise in building engaging and user-friendly web applications. Proficient in HTML, HTML5, CSS, Bootstrap, Tailwind CSS, and Daisy UI, I specialize in creating visually appealing and responsive interfaces.
 
-- 🌱 I’m currently learning **React**
+With a strong foundation in JavaScript, I am experienced in working with modern frameworks like React to develop dynamic and interactive front-end experiences. On the backend, I excel in Node.js and Express.js, leveraging their power to build scalable and efficient server-side applications.
 
-- 👨‍💻 All of my projects are available at [https://mirnaiem-portfolio.netlify.app/](https://mirnaiem-portfolio.netlify.app/)
+I am well-versed in MongoDB, utilizing it as a database solution to store and manage data effectively. As an enthusiastic learner, I stay updated with the latest industry trends and continuously strive to enhance my skills.
 
-- 📫 How to reach me **mirnaiem18teen@gmail.com**
+My collaborative mindset and effective communication skills allow me to work seamlessly within agile development teams, delivering high-quality results within deadlines. I am motivated by challenges and dedicated to delivering exceptional web solutions that meet client requirements.
 
-- 📄 Know about my experiences [https://mirnaiem-portfolio.netlify.app/Mir%20Nayeem%20Hasan's%20resume%20(7).pdf](https://mirnaiem-portfolio.netlify.app/Mir%20Nayeem%20Hasan's%20resume%20(7).pdf)
+Let's connect and collaborate on innovative projects that push the boundaries of web development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Skills: REACT / JS / HTML / CSS / Bootstrap / node / express / mongodb / 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on Easy-Education 
+- 🌱 I’m currently learning React library 
+- 📫 How to reach me: You can reach me through email or any social media. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mirnaiem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://github.com/mirnaiem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Mir Nayeem Hasan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mir Naiem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mirnaiem-portfolio.netlify.app/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mirnaiem)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirnaiem)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mirnaiem&show_icons=true)  
+
